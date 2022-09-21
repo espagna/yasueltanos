@@ -1,2 +1,2 @@
 # yasueltanos
-ejercicios de generation mexico
+ejercicios de generation mexico comenzados en semana 4
